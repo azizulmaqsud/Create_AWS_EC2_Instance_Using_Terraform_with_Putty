@@ -1,4 +1,4 @@
-# Creating_AWS_EC2_Instances_Using_Terraform_Part-2 (SSH with Putty)
+# Creating AWS EC2 Instances Using Terraform (SSH with Putty)
 
 # Create 
 - an EC2 instance. Here I have created using RHL CentOS Linux Ami
